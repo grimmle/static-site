@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Über mich on Lennard Grimm</title>
+    <link>https://grimmle.github.io/cookbook/about/</link>
+    <description>Recent content in Über mich on Lennard Grimm</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    
+	<atom:link href="https://grimmle.github.io/cookbook/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

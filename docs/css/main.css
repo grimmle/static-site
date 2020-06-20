@@ -1,0 +1,15 @@
+.github {
+    fill: black
+}
+.github:hover {
+    fill: white;
+    transition: all .2s ease
+}
+
+.bg-black-60 {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+* {
+    font-family: 'Helvetica', sans-serif;
+}

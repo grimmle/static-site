@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mein Kochbuch on Lennard Grimm</title>
+    <link>https://grimmle.github.io/cookbook/</link>
+    <description>Recent content in Mein Kochbuch on Lennard Grimm</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    
+	<atom:link href="https://grimmle.github.io/cookbook/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fladenbrotpizza</title>
+      <link>https://grimmle.github.io/cookbook/post/recipe_3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://grimmle.github.io/cookbook/post/recipe_3/</guid>
+      <description>We are delighted to be able to inform the reader, that during the whole of this scene, Gringoire and his piece had stood firm. His actors, spurred on by him, had not ceased to spout his comedy, and he had not ceased to listen to it. He had made up his mind about the tumult, and was determined to proceed to the end, not giving up the hope of a return of attention on the part of the public.</description>
+    </item>
+    
+    <item>
+      <title>Gefüllte Paprikas</title>
+      <link>https://grimmle.github.io/cookbook/post/recipe_2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://grimmle.github.io/cookbook/post/recipe_2/</guid>
+      <description>We are delighted to be able to inform the reader, that during the whole of this scene, Gringoire and his piece had stood firm. His actors, spurred on by him, had not ceased to spout his comedy, and he had not ceased to listen to it. He had made up his mind about the tumult, and was determined to proceed to the end, not giving up the hope of a return of attention on the part of the public.</description>
+    </item>
+    
+    <item>
+      <title>Reisnudeln mit Erdnusssoße</title>
+      <link>https://grimmle.github.io/cookbook/post/recipe_1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://grimmle.github.io/cookbook/post/recipe_1/</guid>
+      <description>Zutaten:  200 g breite Reisnudeln 2 EL Sesam 1/2 Gurke 2 Karotten 2 Frühlingszwiebeln 150 g Zucchini 75 g grüne Bohnen 150 g Brokkoli 1 kleines Stück Ingwer 4 Zehen Knoblauch 100 g Mungbohnensprossen 2 EL Erdnussöl 1/2 TL Chiliflocken  Erdnusssoße
+ 3 EL Erdnussmus 3 EL Sojasauce 2 EL Tafelessig 1 TL Sesamöl 1 EL Sriracha  Zubereitung  Nudeln nach Packungsanweisung kochen und kalt abschrecken. Sesam in einer heißen Pfanne ohne Öl 3 Minuten unter häufigem Rühren rösten.</description>
+    </item>
+    
+  </channel>
+</rss>
