@@ -1,5 +1,5 @@
 title = "Lennard Grimm"
-baseURL = "https://grimmle.github.io/cookbook"
+baseURL = "https://grimmle.github.io/static-site"
 publishDir = "docs"
 languageCode = "de"
 theme = "ananke"
