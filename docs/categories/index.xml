@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Lennard Grimm</title>
-    <link>https://grimmle.github.io/cookbook/categories/</link>
+    <link>https://grimmle.github.io/static-site/categories/</link>
     <description>Recent content in Categories on Lennard Grimm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     
-	<atom:link href="https://grimmle.github.io/cookbook/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://grimmle.github.io/static-site/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
