@@ -13,3 +13,22 @@
 * {
     font-family: 'Helvetica', sans-serif;
 }
+
+.bg-top {
+    background-position: center;
+}
+
+.flex {
+    flex-direction: column-reverse;
+}
+
+.flex div {
+    width: 75%;
+    padding: 0;
+    text-align: center;
+    margin: auto;
+}
+
+.text-left {
+    text-align: left;
+}
