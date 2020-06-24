@@ -3,14 +3,28 @@ featured_image: "/images/fladenbrotpizza.jpg"
 title: "Fladenbrotpizza"
 disable_share: true
 ---
-We are delighted to be able to inform the reader, that during the whole of
-this scene, Gringoire and his piece had stood firm. His actors, spurred on
-by him, had not ceased to spout his comedy, and he had not ceased to
-listen to it. He had made up his mind about the tumult, and was determined
-to proceed to the end, not giving up the hope of a return of attention on
-the part of the public. This gleam of hope acquired fresh life, when he
-saw Quasimodo, Coppenole, and the deafening escort of the pope of the
-procession of fools quit the hall amid great uproar. The throng rushed
-eagerly after them. “Good,” he said to himself, “there go all the
-mischief-makers.” Unfortunately, all the mischief-makers constituted the
-entire audience. In the twinkling of an eye, the grand hall was empty.
+
+## Zutaten
+* 1 Knoblauchzehe
+* 1 TL Oregano
+* 5 EL Olivenöl
+* 350 g Strauchtomaten
+* 125g Mozzarella
+* 1 Fladenbrot
+* 3 Stiele Basilikum
+* 40 g Rucola
+* 40 g Parmesan
+* Salz und Pfeffer
+* 2 EL Aceto balsamico 
+
+
+## Zubereitung
+Den Ofen auf 220 Grad (Umluft nicht empfehlenswert) vorheizen. Knoblauch fein hacken. Mit Oregano und Öl verrühren. Von den Tomaten den Stielansatz entfernen. Tomaten in Scheiben schneiden. Mozzarella gut abtropfen lassen, halbieren und in dünne Scheiben schneiden.
+
+Fladenbrot mit einem großen Sägemesser waagerecht halbieren. Brothälften mit den Schnittflächen nach oben auf ein mit Backpapier belegtes Blech legen. Brote mit der Hälfte des Würzöls beträufeln. Mit Tomaten- und Mozzarellascheiben belegen und mit dem restlichen Öl beträufeln.
+
+Im heißen Backofen auf der mittleren Schiene 15 Min. backen. Inzwischen Basilikumblätter von den Stielen zupfen. Rauke putzen und waschen. Parmesan mit einem Sparschäler in Scheiben hobeln.
+
+Fladenbrotpizza aus dem Ofen nehmen. Mit Salz und Pfeffer würzen, mit Basilikum, Rauke und Parmesan bestreuen und sofort mit Essig beträufelt servieren. 
+
+[original](https://www.chefkoch.de/rezepte/2520471395234003/Fladenbrotpizza-Napoli.html)

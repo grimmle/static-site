@@ -3,14 +3,25 @@ featured_image: "/images/paprika.jpg"
 title: "Gefüllte Paprikas"
 disable_share: true
 ---
-We are delighted to be able to inform the reader, that during the whole of
-this scene, Gringoire and his piece had stood firm. His actors, spurred on
-by him, had not ceased to spout his comedy, and he had not ceased to
-listen to it. He had made up his mind about the tumult, and was determined
-to proceed to the end, not giving up the hope of a return of attention on
-the part of the public. This gleam of hope acquired fresh life, when he
-saw Quasimodo, Coppenole, and the deafening escort of the pope of the
-procession of fools quit the hall amid great uproar. The throng rushed
-eagerly after them. “Good,” he said to himself, “there go all the
-mischief-makers.” Unfortunately, all the mischief-makers constituted the
-entire audience. In the twinkling of an eye, the grand hall was empty.
+
+## Zutaten
+* 200 g Hackfleisch
+* 2 EL Tomatenmark
+* 1 Zwiebeln
+* 3 Paprikaschoten
+* 100 g Feta
+* etwas Majoran (frisch)
+* 200 ml Brühe
+* etwas Salz und Pfeffer
+* 2 Tomaten
+* 4 EL Sahne
+
+
+## Zubereitung
+Paprika waschen, entkernen und den oberen Teil (Deckel) zur Seite legen. Die Zwiebel in feine Würfel schneiden. Das Hackfleisch in einer Pfanne mit etwas Öl geben und zusammen mit einigen Zwiebeln anbraten. Salzen und Pfeffern. Klein geschnittene Tomate zufügen und auch mit anschwitzen. Wenn alles angeröstet ist, das Tomatenmark zufügen und mit Kräutern würzen. Dann den zerbröselten Feta zufügen und unterrühren.
+
+Die Masse in die Paprikaschoten, in einer ofenfesten Form, füllen und den oberen Teil der Paprikas darauf legen. In die Form außerdem geschnittene Tomaten und Zwiebeln für die spätere Soße geben. Dazu die Brühe geben. Bei 200 Grad 20 Minuten in den Ofen geben.
+
+Paprika aus den Ofen nehmen und auf einem Teller anrichten. Die mitgegarten Zwiebeln, Tomaten und das restliche Fond aus der Pfanne in einen Mixer geben, Sahne und einen kleinen Schuss Olivenöl hinzufügen, mit Salz würzen und zu einer Soße pürieren. Die Soße über die gefüllten Paprika verteilen.
+
+[original](https://www.daskochrezept.de/rezepte/gefuellte-paprika-mit-hack-kaese-sosse.html)

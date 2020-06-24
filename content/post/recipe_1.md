@@ -40,3 +40,4 @@ disable_share: true
 8. Sojasprossen unterheben, mit 50 ml Wasser ablöschen, Sauce unterrühren und aufkochen.
 9. Zusammen mit Gurke und den übrigen Karottenstiften auf Reisnudeln servieren und mit Sesam und Limettenspalten toppen.
 
+[original](https://www.chefkoch.de/rezepte/2592421407098932/Suesskartoffel-Curry-mit-Kokos-Erdnuss-Sosse.html)
